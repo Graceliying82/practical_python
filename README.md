@@ -6,7 +6,6 @@ Plan to implement the following:
 practical_python/
 │── README.md                # Project overview and usage guide
 │── pyproject.toml           # Project dependencies and configuration
-│── requirements.txt         # Alternative dependency list
 │── src/                     # Source code directory
 │   │── main.py              # Entry point showcasing various demos
 │   │── data_types/          # Demonstrating built-in types
