@@ -1,0 +1,19 @@
+[project]
+name = "practical-python"
+version = "0.1.0"
+description = "python and pytest demo"
+authors = [
+    {name = "Graceliying82",email = "Gracejustingrace@gmail.com"}
+]
+license = {text = "MIT"}
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "pytest (>=8.3.5,<9.0.0)",
+    "behave (>=1.2.6,<2.0.0)"
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
